@@ -1,0 +1,4 @@
+# Etat et journal du bot de pratique (propres a chaque PC)
+paper_state.json
+paper_micro.csv
+micro_paper.log
